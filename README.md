@@ -1,6 +1,8 @@
 # Pangya IFF Editor
-![image](https://github.com/leosander/Pangya-IFF-Editor/assets/52065304/6e29caca-b472-4088-a159-55d6c0996a48)
-![image](https://github.com/leosander/Pangya-IFF-Editor/assets/52065304/82f3abb4-88df-4578-8886-bb228b7f05f3)
+<p float="left">
+  <img src="https://github.com/leosander/Pangya-IFF-Editor/assets/52065304/6e29caca-b472-4088-a159-55d6c0996a48" width="400" />
+  <img src="https://github.com/leosander/Pangya-IFF-Editor/assets/52065304/82f3abb4-88df-4578-8886-bb228b7f05f3" width="400" /> 
+</p>
 
 
 O **Pangya IFF Editor** é uma ferramenta avançada projetada para a edição de arquivos `.iff` utilizados no jogo Pangya. Com uma interface amigável, este editor permite aos usuários uma manipulação detalhada dos componentes do jogo.
